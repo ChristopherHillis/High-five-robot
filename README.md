@@ -3,6 +3,8 @@ A raspberry Pi 4 python powered robot arm which checks for a user presence to gi
 
 My capstone project from Seneca College which makes use of a Raspberry Pi 4, distasnce sensor, motion sensor, LEDs, 180 servo motor, and an external USB speaker.
 
+Libraries used: RPi.GPIO, time, pygame, queue, threading
+
 # Basic program loop
 
 0. Arm is lowered and LED is off
