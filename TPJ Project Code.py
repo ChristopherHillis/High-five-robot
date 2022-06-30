@@ -1,7 +1,4 @@
-#Name: Christopher Hillis
-#Student ID: 136936176
-#Program: TPJ 655
-#Date: December 3, 2021
+
 #Description: The code used for the high five robot. It uses a background thread to detect and use the input of the motion sensor and a foreground loop
 #which checks if the high five was made and act accordingly
 
